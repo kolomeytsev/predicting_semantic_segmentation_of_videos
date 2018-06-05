@@ -9,3 +9,5 @@ Deep Learning project at Skoltech
 
 ### XS2S++
 ![Alt Text](https://media.giphy.com/media/1wptVmpFWb2TU9jmvJ/giphy.gif)
+
+![Alt Text](https://media.giphy.com/media/mMEweeYfyByQ77lw3e/giphy.gif)
